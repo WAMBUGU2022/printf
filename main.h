@@ -1,5 +1,8 @@
 #ifndef MAIN_H
 #define MAIN_H
+/**
+*C header files
+*/
 #include <stdarg.h>
 #include <stdio.h>
 #include <unistd.h>
